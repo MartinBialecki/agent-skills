@@ -1,0 +1,19 @@
+# Secrets & credentials — never commit these
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secret*
+secrets.*
+
+# Packaged skills — distributed via GitHub Releases only
+*.skill
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
