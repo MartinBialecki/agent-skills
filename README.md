@@ -8,8 +8,9 @@ A *skill* is a folder with a `SKILL.md` (YAML frontmatter + instructions) plus o
 
 | Skill | Description |
 |---|---|
-| [esp32-portable-arduino](esp32-portable-arduino/) | ESP32 firmware in C++/Arduino framework (VS Code + pioarduino) architected in three layers (core/hal/app) for painless later migration to ESP-IDF. Covers BLE (NimBLE), motors/robot arms, power/ULP, on-device ML (TFLite Micro/ESP-DL), testing and the full migration playbook. |
 | [agent-skills-contributor](agent-skills-contributor/) | Teaches an AI agent how to add a new skill to this repository: structure, frontmatter, quality bar, privacy/security checklist, PR conventions. |
+| [avalara-einvoicing](avalara-einvoicing/) | Avalara E-Invoicing and Live Reporting (ELR) administration & API integration: per-environment OAuth token hosts, document list/status/download with the real response shapes, mandate activation, webhooks, country mandate guide (incl. Chorus Pro annuaire bulk lookup), ERP integration patterns. |
+| [esp32-portable-arduino](esp32-portable-arduino/) | ESP32 firmware in C++/Arduino framework (VS Code + pioarduino) architected in three layers (core/hal/app) for painless later migration to ESP-IDF. Covers BLE (NimBLE), motors/robot arms, power/ULP, on-device ML (TFLite Micro/ESP-DL), testing and the full migration playbook. |
 
 ## Installation
 
